@@ -3,7 +3,7 @@
  
 |Paramètres  |Détails |
 |:---------------------|:------------------------------|
-|Challenge             |` Mountain challenge / Hack in the wood ` |
+|Challenge             |` Mountain challenge / Hack in the woods ` |
 |Durée                 |` 5 weeks ` |
 |Deadline              |` 30/09/2022 17h00 ` |
 |Technologie           | ` Wordpress ` |
@@ -11,76 +11,21 @@
  
  
  
-## Objectives 
+## Description 
  
-Here ,we are going to make a user friendly game/web host manager . 
-We will be able , against the payement of your subscription , to offer you all a range of possible services wich also provide a game host manager for many games , with various sizes and prices.
-
-We wille also add a forum for the comunnity to discuss their problem and a tutorial zone where we can add any type of tutos about the management of our services , and a user page management.
+Ce projet fait suite au Hackathon "Hack in the woods", où notre équipe a eu la chance d'avoir un projet sélectionné. Nous allons donc faire une refonte d'une partie du site de la croix rouge jeunesse.
  
-### The features
+### Objectifs
 
-⦁	FRONT :
-⦁	Homepage ( + pricing )
-⦁	Service page (all avalaible games with details)
-⦁	? Detail page for each game ( with the avalaible services)
-⦁	FAQ and tutorials page
-⦁	User interface
-⦁	Login/register page
-⦁	Payement interface
+- Implémenter une e-commerce (woocommerce)
+- Implémenter les produits téléchargeables
+- Permettre l'enregistrement d'un animateur pour ces produits ainsi que la prise de rendez vous pour les clients (système d'agenda)
+- Création et gestion de compte utilisateur
+- Implémenter des rappels si un outils n'est pas utilisé après un téléchargement
+- Permettre un feedback par le client sur l'outil télécharger
+- Thème enfant pour éviter le reset du template après une mise à jour
+- Permettre la collecte de données pour la croix rouge
 
-⦁	BACK :
-⦁	API management ( Pterodactyle & panel )
-⦁	Database management 
-⦁	Tuto zone ( FAQ and tutos )
-⦁	Forum management 
-⦁	Support 
-⦁	Payement management (+stripe )
+### Visuaels
 
-#### Visuals
-##### Homepage
-
-This page will be the first one displayed when you open the app.
-
- 
-##### Service page
-Once logged in you will be redirect to this general services page 
- 
-##### Details page
-Each service got his own detailed page 
- 
-
-  
-
-For any order you will be redirect to an order page 
-
-  
-
-
-##### FAQ/ tutos page 
-Those tutos will be uploaded by administrators 
- 
- 
-
-##### Login/register page
- 
-
-Login page , when register you will  be redirect .
- 
-
-##### User interface
-⦁	User management 
- 
- 
-
-⦁	Services management
-Status management :
-    
-
-Back-up creation
- 
-Support 
- 
-
-***
- 
+https://www.figma.com/file/bAFKgyuhwMgxSO538Pfadk/Accueil-(Copy)?node-id=0%3A1
