@@ -17,7 +17,7 @@ Ce projet fait suite au Hackathon "Hack in the woods", où notre équipe a eu la
  
 ## Objectifs
 
-- Implémenter une e-commerce (woocommerce)
+- Implémenter une interface e-commerce (woocommerce)
 - Implémenter les produits téléchargeables
 - Permettre l'enregistrement d'un animateur pour ces produits ainsi que la prise de rendez vous pour les clients (système d'agenda)
 - Création et gestion de compte utilisateur
