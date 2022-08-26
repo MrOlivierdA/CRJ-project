@@ -4,7 +4,7 @@
 |Paramètres  |Détails |
 |:---------------------|:------------------------------|
 |Challenge             |` Mountain challenge / Hack in the woods ` |
-|Durée                 |` 5 weeks ` |
+|Durée                 |` +- 6 weeks ` |
 |Deadline              |` 30/09/2022 17h00 ` |
 |Technologie           | ` Wordpress ` |
 |Groupe                |` Mariya Krasteva, Nicolas Lambert, Steeve Houbart, Olivier Dardenne, Louis Collard,  Antoine Nowak `|
