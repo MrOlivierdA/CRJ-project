@@ -15,7 +15,7 @@
  
 Ce projet fait suite au Hackathon "Hack in the woods", où notre équipe a eu la chance d'avoir un projet sélectionné. Nous allons donc faire une refonte d'une partie du site de la croix rouge jeunesse.
  
-### Objectifs
+## Objectifs
 
 - Implémenter une e-commerce (woocommerce)
 - Implémenter les produits téléchargeables
@@ -26,6 +26,6 @@ Ce projet fait suite au Hackathon "Hack in the woods", où notre équipe a eu la
 - Thème enfant pour éviter le reset du template après une mise à jour
 - Permettre la collecte de données pour la croix rouge
 
-### Visuaels
+## Visuels
 
 https://www.figma.com/file/bAFKgyuhwMgxSO538Pfadk/Accueil-(Copy)?node-id=0%3A1
