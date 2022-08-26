@@ -1,14 +1,13 @@
 # Project : Croix rouge (Refonte d'une partie du site web https://www.crj.be/)
 
  
-|Project Parameters  |Project Details |
+|Paramètres  |Détails |
 |:---------------------|:------------------------------|
-|Challenge type        |`Mountain challenge` |
-|Duration              |`5 weeks` |
-|Deadline              |`30/09/2022 17h00` |
-|Used technos  | ` Wordpress ` |
-|Group members |` Mariya Krasteva, Nicolas Lambert, Steeve Houbart, Olivier Dardenne, Louis Collard,  Antoine Nowak`|
-|Project submition     |`Presentations`|
+|Challenge             |` Mountain challenge / Hack in the wood ` |
+|Durée                 |` 5 weeks ` |
+|Deadline              |` 30/09/2022 17h00 ` |
+|Technologie           | ` Wordpress ` |
+|Groupe                |` Mariya Krasteva, Nicolas Lambert, Steeve Houbart, Olivier Dardenne, Louis Collard,  Antoine Nowak `|
  
  
  
