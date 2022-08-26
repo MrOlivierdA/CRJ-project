@@ -21,8 +21,8 @@ Ce projet fait suite au Hackathon "Hack in the woods", où notre équipe a eu la
 - Implémenter les produits téléchargeables
 - Permettre l'enregistrement d'un animateur pour ces produits ainsi que la prise de rendez vous pour les clients (système d'agenda)
 - Création et gestion de compte utilisateur
-- Implémenter des rappels si un outils n'est pas utilisé après un téléchargement
-- Permettre un feedback par le client sur l'outil télécharger
+- Implémenter des rappels si un outil n'est pas utilisé après un téléchargement
+- Permettre un feedback par le client sur l'outil téléchargé
 - Thème enfant pour éviter le reset du template après une mise à jour
 - Permettre la collecte de données pour la croix rouge
 
